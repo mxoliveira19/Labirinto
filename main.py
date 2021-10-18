@@ -2,6 +2,8 @@
 # 2.PROFUNDIDADE
 # 3. GULOSO 
 
+# -----------------------------------------
+# LARGURA
 import numpy as np
 
 from tkinter import *
